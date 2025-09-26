@@ -1,16 +1,17 @@
-# researcherhw
+# researcher_to_list    عمل--الطالب محمد علي احمد مهيوب هاذا تكليف (برنامج في الفلاتر) فيه اضافه وحذف وتعديل وعرض بعد كل عمليه الئ 
+
+
+# flutter run           -  لتشغيل المشروع -
 
 A new Flutter project.
 
 ## Getting Started
+git clone https://github.com/mhmdALhilali/CRUD_to_list.git      لتحميل المشروع من الي جها,زك ermainelافتح  
 
-This project is a starting point for a Flutter application.
+cd CRUD_to_list                                              # يدخل على مجلد المشروع
+flutter pub get                                              # ينزل المكتبات المطلوبة
+flutter run                                                  # يشغّل التطبيق
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+git add .                                                    # يضيف كل الملفات المعدلة
+git commit -m "وصف التعديل"                                  # يسجل نسخة جديدة مع رسالة
+git push                                                     # يرفع التعديلات إلى GitHub
