@@ -1,0 +1,12 @@
+lib/
+├── main.dart
+├── models/
+│   └── researcher.dart
+├── services/
+│   └── researcher_service.dart
+├── screens/
+│   ├── login_screen.dart
+│   ├── home_screen.dart
+│   └── researcher_form_screen.dart
+└── widgets/
+    └── researcher_card.dart
